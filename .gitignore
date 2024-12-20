@@ -1,0 +1,36 @@
+Ecommerce_purchases.txt
+# Ignore l'environnement virtuel
+ex00/
+
+# Ignore les fichiers générés par Python
+pycache/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore les fichiers de log
+*.log
+
+# Ignore les fichiers de configuration IDE
+.idea/
+.vscode/
+
+# Ignore les fichiers de base de données
+*.sqlite3
+
+# Ignore les fichiers de paquets compressés
+*.tar.gz
+
+# Ignore les fichiers temporaires
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Ignore les fichiers de dossiers spécifiques (ajouter ceux qui sont pertinents pour ton projet)
+.ipynb_checkpoints/
+
+*.DS_Store
+*.exe
+*.jar
+*.dll
